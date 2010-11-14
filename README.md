@@ -17,4 +17,4 @@ License
 --------
 ABL Core is licensed under [Apache License 2.0][licensesite].
 
-[licensesite]: http://github.com/abevoelker/core-abl/blob/master/LICENSE
+[licensesite]: http://github.com/abevoelker/abl-core/blob/master/LICENSE
